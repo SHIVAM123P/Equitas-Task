@@ -1,0 +1,14 @@
+
+
+1. Incorporated visually appealing animations for the cards, providing a more engaging and interactive user experience. When users hover over a card, it now elegantly scales up with a smooth animation, adding a touch of excitement.
+
+2. Introduced a subtle box shadow to the "Prev Page" and "Next Page" buttons, indicating interactivity. The buttons now also have a slight scale-up effect on hover, making them visually engaging and interactive for users.
+
+3. Improved the typography across the website, ensuring consistency in font size, line height, and letter spacing. This enhancement provides a more pleasant and seamless reading experience for users.
+
+4. Ensured that the website is fully responsive and adapts seamlessly to different devices and screen sizes, enhancing accessibility and usability on mobiles, tablets, and desktops.
+
+5. Thoroughly tested the website on various browsers and devices to ensure compatibility and smooth functionality across different platforms. This ensures a seamless user experience for all visitors.
+
+6. The website now showcases information on rocket launches with a visually appealing and futuristic design. This update creates an immersive experience for users interested in space exploration.
+
