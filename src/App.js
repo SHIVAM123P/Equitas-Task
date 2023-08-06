@@ -226,7 +226,7 @@ function App() {
                                             <Button
                                                 variant="contained"
                                                 color="secondary"
-                                                href={launch.links.wikipedia}
+                                                href={launch.links.wikipedia || 'https://en.wikipedia.org/wiki/SpaceX_CRS-3'} //If there is no link, redirect it to a default link
                                                 target="_blank"
                                                 rel="noopener noreferrer"
                                                 style={{ margin: '10px 0 7px 0' }} // Add margin at the top and bottom, and no margin on the sides

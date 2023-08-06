@@ -1,6 +1,4 @@
-/* App.css */
 
-/* Add your custom styles here */
 /* html{
   background-color: #2D383A;
 } */
@@ -95,7 +93,7 @@
 
 #card:hover {
   /* we can use any animation pf our choice, I have defined some above*/
-  animation: pulse 5s infinite;
+  animation: fadeInOut 5s infinite;
 }
 
 
